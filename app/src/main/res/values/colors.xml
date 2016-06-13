@@ -3,6 +3,7 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="purple">#b63f5f</color>
-    <color name="pink">#b63f5f</color>
+    <color name="purple">#ed0530</color>
+    <color name="pink">#dc0909</color>
+    <color name="pinky">#e70808</color>
 </resources>

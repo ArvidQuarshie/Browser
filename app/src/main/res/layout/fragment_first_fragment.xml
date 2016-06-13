@@ -1,0 +1,27 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.user.browser.first_fragment"
+    android:background="@color/pink">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="4dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text=" Browser App"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal|top" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="47dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="This is a sample browser ."
+        android:id="@+id/textView3"
+        android:layout_gravity="center" />
+
+</FrameLayout>
